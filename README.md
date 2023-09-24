@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요!@.@ 👋
 [![코드트리|실력진단-12201746](https://banner.codetree.ai/v1/banner/12201746)](https://www.codetree.ai/profiles/12201746)
 <!--
 **s0613/s0613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
