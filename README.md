@@ -1,5 +1,5 @@
 
-# 👨‍💻 송승주 (Seungjoo Song)
+# 👨‍💻 송승주 (Seungju Song)
 
 ### 🌟 Passionate Developer | 🚀 Innovator | 💡 Problem Solver
 
