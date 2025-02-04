@@ -11,7 +11,6 @@
 
 ### 💻 **프론트엔드**
 - **Next.js**, **TypeScript**
-- **Flutter Web**
 
 ### ⚙️ **백엔드**
 - **Spring Boot**
