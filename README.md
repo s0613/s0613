@@ -18,8 +18,8 @@
 - **Node.js**, **MariaDB**
 
 ### 🌐 **DevOps**
-- **AWS EC2**, **Nginx**
-- **HTTPS 설정** 및 **도메인 연결**
+- **깃허브 Action + AWS CodeDeploy**
+- 
 
 ### 📝 **기타**
 - **WordPress** 설치 및 운영 경험
