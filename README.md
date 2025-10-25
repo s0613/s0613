@@ -39,7 +39,7 @@ Next.js와 Spring Boot를 중심으로 한 웹 서비스 개발에 전문성을 
 
 ## 🚀 대표 프로젝트
 
-### 🧩 [Trynic AI](https://trynic.ai)
+### 🧩 [Trynic AI](https://trynicai.com)
 소규모 쇼핑몰을 위한 **AI 숏폼 영상 생성 서비스**  
 - **Next.js + Spring Boot** 기반으로 설계된 AI 영상 생성 SaaS  
 - 상품 이미지·텍스트 기반으로 숏폼 영상을 자동 생성 및 템플릿 오버레이  
@@ -47,10 +47,14 @@ Next.js와 Spring Boot를 중심으로 한 웹 서비스 개발에 전문성을 
 - **EC2 + Nginx + PM2** 기반 무중단 배포  
 - 예비창업패키지(총 5천만원) 선정
 
-### 🏥 [MediVu](https://medivu.ai)
+### 🌏 [TOTARO](https://www.totaro.co.kr)  
+**수출기업의 AI마케팅 팀이 되어주는** 서비스
+- AI 웹사이트 빌더, 다국어 SEO, geo, aeo 지원, 해외 바이어 발굴
+
+
+### 🏥 [MediVu]
 AI 기반 **의료영상 판독문 자동 생성 솔루션**  
-- **병원 PACS 연동형 AI 판독문 생성 플랫폼**  
-- **DICOM 이미지 + PDF 판독문 가명화 파이프라인** 프로토타입 개발  
+- **병원 AI 판독문 생성 플랫폼**  
 - **창업중심대학 실험실특화형 사업** 선정 (총 1억원 지원)  
 - KCR 학회(대한영상의학회) 부스 운영 및 병원 협력 진행
 
