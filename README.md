@@ -6,7 +6,7 @@
 **사용자 중심의 경험과 실질적 가치 창출**을 목표로, 기술을 통해 문제를 해결하고 새로운 가능성을 실현하는 **풀스택 개발자이자 창업가**입니다.  
 
 Next.js와 Spring Boot를 중심으로 한 웹 서비스 개발에 전문성을 갖고 있으며,  
-기획부터 배포까지 **엔드투엔드(End-to-End)**로 프로젝트를 완성해 나가는 것을 즐깁니다.  
+기획부터 배포까지 엔드투엔드(End-to-End)로 프로젝트를 완성해 나가는 것을 즐깁니다.  
 실패를 두려워하지 않고, 더 나은 아키텍처와 사용자 경험을 위해 끊임없이 배웁니다.  
 
 [송승주 이력서 웹사이트](https://songseungju.dev/)
@@ -21,7 +21,7 @@ Next.js와 Spring Boot를 중심으로 한 웹 서비스 개발에 전문성을 
 - SEO 최적화 및 퍼포먼스 튜닝 경험 (Lighthouse, 구조화 데이터)
 
 ### ⚙️ **백엔드**
-- **Spring Boot (JPA, Security, OAuth2)**, **Node.js**
+- **Spring Boot**, **Node.js** **Django**
 - **MariaDB**, **Redis**, **AWS S3**, **CloudFront**
 - RESTful / JWT 기반 인증 API 설계 및 배포 자동화
 
