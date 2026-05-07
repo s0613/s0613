@@ -1,5 +1,5 @@
 # 👨‍💻 송승주 (Seungju Song)
-
+[![Tokscale Stats](https://tokscale.ai/u/s0613/card)](https://tokscale.ai/u/s0613)
 ### 🌟 Passionate Developer | 🚀 Innovator | 💡 Problem Solver
 
 안녕하세요! 저는 **송승주**입니다.  
